@@ -9,3 +9,9 @@ Here I will update what topics I am studying each day:
 *Introduction to Objects and variables
 *Variable Assignment and Initialization
 *Introduction to iostream: cout, cin, and endl
+2.22.2026
+*nothing
+2.23.2026
+*nothing
+2/24/2026
+*Continuation of <iostream> Understanding
