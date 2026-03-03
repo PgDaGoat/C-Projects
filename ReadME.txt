@@ -45,3 +45,16 @@ taking std::cout or std::cin on the left side, and the value to output or variab
 4. Nullary: Act on zero operands. There is only one of these in C++ (the throw operator).
 
 Note: When chaining operations follow PEMDAS for correct use of order of operations.
+1.10 - Introduction to Expressions
+1.11 - Developing your first program
+--Completion of Chapter 1--
+2.1 - Introduction to Functions
+*Function: a reusable sequence of statements designed to do a particular job
+*A function you write yourself is a user-defined function.
+*A function call tells the CPU to interrupt the current function and execute another function.
+The CPU is essentially putting a bookmark at the current point of execution,
+executes the function named in the function call, and then returns to the point it bookmarked
+and resumes execution.
+**Nomenclature**
+The function initiating the function call is the caller, and the function being called(executed)
+is the callee. A function call is also sometimes called an invocation, with the caller invoking the callee.
